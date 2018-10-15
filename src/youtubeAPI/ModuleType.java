@@ -1,0 +1,12 @@
+package youtubeAPI;
+
+public enum ModuleType {
+	
+	TEXT_TAGS_TITLE_MOD,
+	DESCRIPTION_SITES_MOD,
+	RELATED_VIDEOS_MOD,
+	CHANNEL_MOD,
+	TWITTER_MOD,
+	GOOGLE_SEARCH_MOD;
+	
+}
